@@ -1,5 +1,4 @@
 Functions added in this smart contract are:
-
 1) Visitors can earn rewards by visiting and staying for at least 2 minutes on thecryptodate.com
 
 2)Visitors who stay on the website for 3 minutes or more will get a higher reward amount.
