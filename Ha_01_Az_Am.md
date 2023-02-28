@@ -1,4 +1,4 @@
-Functions added in this smart contract are:
+Functions added in this smart contract are       
 1) Visitors can earn rewards by visiting and staying for at least 2 minutes on thecryptodate.com
 
 2)Visitors who stay on the website for 3 minutes or more will get a higher reward amount.
@@ -16,7 +16,7 @@ Users can participate in community voting with a minimum of 100 tokens.
 
 8)Users can schedule a call with the owner of the contract for 5,000 tokens.
 
-9)Users can chat with the owner of the contract on Telegram for 2,500 tokens.
+9)Users can chat with Habib Rahman shaikh who is the owner of this contract on for 2,500 tokens.
 
 
 
